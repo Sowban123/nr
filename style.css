@@ -746,3 +746,10 @@ footer {
  display: block;   
 }
 }
+@media(max-width:276px){
+    #aboutimg2{
+        display: block;   
+        width: 32%;
+
+       }   
+}
