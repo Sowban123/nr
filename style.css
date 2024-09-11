@@ -230,7 +230,9 @@ body {
 .aboutimg img {
     border-radius: 80px;
 }
-
+#aboutimg2{
+    display: none;   
+   }
 .aboutimg p {
     text-align: center;
     justify-content: center;
@@ -727,6 +729,7 @@ footer {
 .aboutimg img {
     border-radius: 10px;
     height: 36vh;
+    display: none;
 }
 .inputbox {
     width: 229%;
@@ -738,5 +741,8 @@ footer {
     font-size: 12px;
     position: relative;
     right: 74px;
+}
+#aboutimg2{
+ display: block;   
 }
 }
